@@ -1,0 +1,6 @@
+{
+  "name": "LUXORA Salon & Barber",
+  "description": "Style. Reimagined. Premium futuristic luxury salon and barber experience with interactive 3D studio, appointment booking, and multi-location management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
